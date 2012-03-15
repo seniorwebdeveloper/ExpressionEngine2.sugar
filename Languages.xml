@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<settings>
+    <language id="com.martinbean.expressionengine2">
+         <root-zone>language-root.expressionengine2</root-zone>
+         <name>ExpressionEngine 2</name>
+         <detectors>
+             <extension>html</extension>
+         </detectors>
+    </language>
+</settings>
